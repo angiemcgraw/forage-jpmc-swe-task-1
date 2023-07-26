@@ -20,6 +20,5 @@ class ClientTest(unittest.TestCase):
   """ ------------ Add more unit tests ------------ """
 
 
-
 if __name__ == '__main__':
     unittest.main()
